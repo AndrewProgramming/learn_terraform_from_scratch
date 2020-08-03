@@ -1,0 +1,7 @@
+plugins/
+.terraform/
+*tfvars
+.DS_Store/
+*tfstate*
+*mykey*
+*.pub
